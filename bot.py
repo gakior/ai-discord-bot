@@ -294,4 +294,4 @@ async def imagine(ctx : discord.Interaction, prompt: str, image_type: app_comman
         await ctx.edit_original_response(content="Failed to upload image.", embed=None)
 
     
-client.run("")#use your bot token
+client.run("MTMwNDI5Mjg5ODExNTgxNzUxNA.Gl51vr.DHLOBMvs9cSFGa5hOF9i45fl9iq835etHhCyNI")#use your bot token
